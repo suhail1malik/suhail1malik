@@ -1,21 +1,27 @@
-# Hi, I'm Suhail 👋
-**MERN Stack Developer** | **MCA Graduate 2023**
+# Hi there, I'm Suhail Malik! 👋
 
-🚀 Building full-stack web applications  
-💻 MongoDB | Express.js | React.js | Node.js  
-🎯 Currently seeking opportunities in Delhi/Noida
+## 🚀 MERN Stack Developer | MCA Graduate 2023
 
-<!--
-**suhail1malik/suhail1malik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Currently seeking opportunities in Delhi/Noida NCR**
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
+- **Backend:** Node.js, Express.js, RESTful APIs
+- **Database:** MongoDB, Mongoose
+- **Tools:** Git, VS Code, Postman, MongoDB Atlas
+- **Currently Learning:** Next.js, TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![Suhail's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhail1malik&show_icons=true&theme=radical)
+
+### 🔥 Current Projects
+- 🎯 **Task Management App** - Full-stack MERN application
+- 🛒 **E-commerce Dashboard** - Advanced state management with Redux
+
+### 📫 Let's Connect
+- 💼 **LinkedIn: www.linkedin.com/in/suhail-malik-5b76a818b
+- 📧 **Email:** suhailmalik7643@gmail.com
+- 🌐 **Portfolio:** [Coming soon]
+
+### 💡 Fun Fact
+Passionate about solving real-world problems with clean, efficient code!
