@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hi, I'm Suhail 👋
+**MERN Stack Developer** | **MCA Graduate 2023**
+
+🚀 Building full-stack web applications  
+💻 MongoDB | Express.js | React.js | Node.js  
+🎯 Currently seeking opportunities in Delhi/Noida
 
 <!--
 **suhail1malik/suhail1malik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
