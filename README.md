@@ -15,12 +15,12 @@
 ![Suhail's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhail1malik&show_icons=true&theme=radical)
 
 ### 🔥 Current Projects
-- 🎯 **Task Management App** - Full-stack MERN application
 - 🛒 **E-commerce Dashboard** - Advanced state management with Redux
+- - 🎯 **Weather Forcasting** - Full-stack MERN application
 
 ### 📫 Let's Connect
 - 💼 **LinkedIn: www.linkedin.com/in/suhail-malik-5b76a818b
-- 📧 **Email:** suhailmalik7643@gmail.com
+- 📧 **Email:** suhailmalik.dev@gmail.com
 - 🌐 **Portfolio:** [Coming soon]
 
 ### 💡 Fun Fact
