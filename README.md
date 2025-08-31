@@ -15,8 +15,8 @@
 ![Suhail's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhail1malik&show_icons=true&theme=radical)
 
 ### 🔥 Current Projects
-- 🛒 **E-commerce Dashboard** - Advanced state management with Redux
-- - 🎯 **Weather Forcasting** - Full-stack MERN application
+- 🛒 **E-commerce Dashboard** - Full-stack MERN application with advanced state management with Redux
+- - 🎯 **Weather Forcasting** - Using React js html css and tailwind
 
 ### 📫 Let's Connect
 - 💼 **LinkedIn: www.linkedin.com/in/suhail-malik-5b76a818b
