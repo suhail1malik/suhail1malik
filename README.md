@@ -20,17 +20,20 @@ Full-stack developer experienced in building production-ready e-commerce and rea
 
 ## 🔥 Key Projects
 
-- 🛒 **CommerceHubb** – React.js, Node.js, Express.js, MongoDB  
-  Full-stack e-commerce platform with user authentication, product management, shopping cart, and order workflows powered by REST APIs.  
-  Includes Razorpay payment integration, Cloudinary-based media uploads, Redux Toolkit state management, and an admin dashboard for store performance tracking.
-
 - 🧥 **StylishBlazer.in** – Next.js, Prisma, Tailwind CSS  
   Production B2B catalog platform for men’s blazers, women’s coats, and woolen jackets with category-based browsing and inquiry-led conversion flows.  
-  Uses Prisma ORM, Cloudinary for media, Framer Motion animations, WhatsApp inquiry actions, and email-based communication to streamline bulk order inquiries.
+  Uses Prisma ORM, Cloudinary for media, Framer Motion animations, WhatsApp inquiry actions, and email-based communication to streamline bulk order inquiries.  
+  👉 Live: [https://stylishblazer.in/](https://stylishblazer.in/)
 
 - 🏠 **SaudiProperty360.com** – Next.js, Prisma, Tailwind CSS  
   Real-estate advisory platform with curated property listings, investor-focused discovery, and consultation workflows.  
-  Implements robust validation and sanitization, media handling, and Upstash Redis–backed rate-limited inquiry systems to improve reliability and security.
+  Implements robust validation and sanitization, media handling, and Upstash Redis–backed rate-limited inquiry systems to improve reliability and security.  
+  👉 Live: [https://www.saudiproperty360.com/](https://www.saudiproperty360.com/)
+
+- 🛒 **CommerceHubb** – React.js, Node.js, Express.js, MongoDB  
+  Full-stack e-commerce platform with user authentication, product management, shopping cart, and order workflows powered by REST APIs.  
+  Includes Razorpay payment integration, Cloudinary-based media uploads, Redux Toolkit state management, and an admin dashboard for store performance tracking.  
+  👉 Live: [https://commercehubb.netlify.app/](https://commercehubb.netlify.app/)
 
 ---
 
